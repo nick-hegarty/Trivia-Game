@@ -1,0 +1,45 @@
+h1 , h2{
+	text-align: center;
+}
+
+h1{
+	font-style: bold;
+	font-size: 32px;
+	margin:20px auto;
+	text-transform: capitalize;
+}
+
+h2{
+	margin: 16px;
+	font-size: 24px;
+}
+
+.container{
+	margin: 30px 45px;
+	padding: 20px;
+	border: solid 5px black;
+	background-color: white;
+}
+
+ul{
+	margin: 10px auto;
+}
+
+.playbuttons{
+	margin: 20px auto;
+}
+
+.rules{
+	text-align:center;
+	font-size: 18px;
+}
+
+p{
+	font-size:16px;
+}
+
+body{
+	font:georgia;
+	font-size: 14px;
+	background: #ffffff url("../images/racetrack.jpg") no-repeat right top;
+}
